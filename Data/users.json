@@ -1,0 +1,46 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "surname": "Doe",
+            "email": "john.doe@example.com",
+            "issuedBook":"1",
+            "issuedDate":"2023-01-15",
+            "returnDate":"2023-02-15",
+            "phone": "123-456-7890",
+            "subscriptionType": "Premium",
+            "subscriptionDate": "2023-01-15"
+            
+        },
+        {
+            "id": 2,
+            "name": "Jane Smith",
+            "surname": "Smith",
+            "email": "jane.smith@example.com",
+            "issuedBook":"2",
+            "issuedDate":"2023-02-01",  
+            "returnDate":"2023-03-01",
+            "phone": "098-765-4321",
+            "subscriptionType": "Basic",
+            "subscriptionDate": "2023-02-01"
+        },
+        {
+            "id": 3,
+            "name": "Bob Johnson",
+            "surname": "Johnson",
+            "email": "bob.johnson@example.com",
+            "issuedBook":"3",
+            "issuedDate":"2023-01-20",  
+            "returnDate":"2023-02-20",
+            "phone": "555-1234",
+            "subscriptionType": "Premium",
+            "subscriptionDate": "2023-01-20"
+        }
+    ]
+}
+           
+       
+            
+                
+       
